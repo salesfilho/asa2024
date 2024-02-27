@@ -5,3 +5,9 @@ Repositorio para a disciplina de ASA 2024.1
 
 ### Como baixar o repositório
 1. git clone <REPO>
+
+### Como enviar para o repo central
+
+git add .
+git commit -m "msg"
+git push
